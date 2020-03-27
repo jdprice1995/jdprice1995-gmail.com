@@ -1,1 +1,1 @@
-# jdprice1995-gmail.com
+First time using Flask creating a task manager.
